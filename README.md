@@ -1,5 +1,5 @@
 # Calc gain
-#### Video Demo:  https://youtu.be/q-p9DrmxVxM?si=loydCMAmdnWhfYHv
+
 #### Description:
 This program will help you with calculating gains and losses for daily trading. I noticed it was hard for me to record trading data so I made a program
 that will save and present data in a specific format and help with some simple information presentation about your account like profit percentage.
